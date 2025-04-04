@@ -3,6 +3,10 @@
 
 This Express-based backend API is part of a MEAN stack application for Assignment 2. It provides all CRUD operations for managing clothing items (including nested reviews) and serves a bundled Angular client from the `public` folder. 
 
+## .env
+MONGO_URI=mongodb+srv://tejeshwarthakur2003:Youmewe2515@cluster0.jyi57y9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+PORT=5002
+
 ## Overview
 
 - **Framework:** Node.js with Express
